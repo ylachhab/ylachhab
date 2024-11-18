@@ -1,4 +1,4 @@
-[![ylachhab's 42 stats](https://badge.mediaplus.ma/greenbinary/ylachhab)](https://github.com/ylachhab)
+[![ylachhab's 42 stats](https://badge.mediaplus.ma/binary/ylachhab)](https://github.com/ylachhab)
 
 
 <br>
